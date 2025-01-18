@@ -1,9 +1,9 @@
 # Gabriele Poccianti
 
 ## About Me
--Msc in Physics of Data at Unipd, a Physics degree with a special focus on Data Analysis and how to combine recent tools in the field of AI with scientific research
--Bsc in Physics and Astrophysics at Unifi
--Mainly interested in Complex Systems/ Interdisciplinary application
+- **MSc in Physics of Data** from the University of Padua (UniPd): A specialized degree combining physics with data analysis, emphasizing the integration of modern AI tools into scientific research.  
+- **BSc in Physics and Astrophysics** from the University of Florence (UniFi).  
+- Passionate about **complex systems** and their interdisciplinary applications, bridging diverse scientific fields.
 
 ## Contact
-- Email: [gabriele.poccianti@studenti.unipd.it]
+- **Email**: [gabriele.poccianti@studenti.unipd.it](mailto:gabriele.poccianti@studenti.unipd.it)
